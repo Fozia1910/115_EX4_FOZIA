@@ -1,1 +1,1 @@
-console.log("Hello Mercury");
+console.log("Hello Venus");
